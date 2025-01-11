@@ -1,7 +1,7 @@
 # compiled output
 node_modules
 /node_modules
-/build
+client/login/login-build/
 server/dist
 unified-app/
 
