@@ -2,7 +2,6 @@
 node_modules
 /node_modules
 client/login/login-build/
-server/dist
 unified-app/
 
 # Logs
