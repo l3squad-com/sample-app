@@ -1,9 +1,8 @@
 # compiled output
-server/dist
 node_modules
 /node_modules
 /build
-
+server/dist
 unified-app/
 
 # Logs
