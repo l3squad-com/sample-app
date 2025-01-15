@@ -32,7 +32,7 @@ docker pull ghcr.io/l3squad-com/sample-app:latest
 
 #### Run the Sample App
 ```
-docker run -p 3000:3000 ghcr.io/l3squad-com/sample-app:latest
+docker run -p 2025:3000 ghcr.io/l3squad-com/sample-app:latest
 ```
 
 > OR Run in Detached Mode:
