@@ -17,8 +17,10 @@ Follow DOCKER_NOTES.md to create a new Sample App Server
     - Click on the green Generate token button at the bottom of the page.
     - Once generated, make sure to copy your personal access token immediately. You will not be able to see it again after you navigate away from this page.
  - Store Your Token Securely:
-    - Save your token in a secure location, such as a password manager or a secure text file.
-  Here’s a detailed README for installing Docker on Windows:
+     - Save your token in a secure location, such as a password manager or a secure text file.
+
+ 
+  # Here’s a detailed README for installing Docker on Windows:
 
 ---
 
